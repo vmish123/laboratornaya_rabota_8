@@ -1,1 +1,1 @@
-# laboratornaya_rabota_8
+# Лабораторная работа 8 - Лямбда, Stream API
